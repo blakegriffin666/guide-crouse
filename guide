@@ -850,7 +850,7 @@ int music_status=0,temp_music_status=0;
 int music_vol=10,temp_music_vol=10;
 int music_num_MAX=9;
 int current_music=1,temp_current_music=1;
-char* names[]={“BUPT Theme Song-AiYue “,”Glad You Come-Boyce Avenue  “,”Penumatic Tokyo-Env “,”Luv Letter-DJ “,”Only My Railgun-None “,”Sugar-Kidz Bop Kids “,”Unity-The Fat Rat “,”Star Sky-Two Steps From Hell “,”Schnappi-Joy Gruttmann “};
+char* names[]={“光年之外 “,”你不是真正的快乐 “,”喜欢你“,”画 “,”泡沫 “,”你把我灌醉“,”来自天堂的魔鬼“,”红蔷薇白玫瑰“,”后会无期 “};
 bool isConnected=false;
 bool bottomBar=true;
 bool canPlay=false;
